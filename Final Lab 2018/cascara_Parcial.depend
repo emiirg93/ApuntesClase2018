@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1529626528 source:c:\users\emiliano\desktop\cascara_parcial\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1530109392 c:\users\emiliano\desktop\cascara_parcial\arraylist.h
+
+1531313651 source:c:\users\emiliano\desktop\cascara_parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1531313152 c:\users\emiliano\desktop\cascara_parcial\funciones.h
+	"ArrayList.h"
+
+1531311959 source:c:\users\emiliano\desktop\cascara_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1529626528 source:f:\final\cascara_parcial\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1530109392 f:\final\cascara_parcial\arraylist.h
+
+1531320054 source:f:\final\cascara_parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1531313154 f:\final\cascara_parcial\funciones.h
+	"ArrayList.h"
+
+1531320052 source:f:\final\cascara_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1529626528 source:d:\final\cascara_parcial\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1530109392 d:\final\cascara_parcial\arraylist.h
+
+1531704210 source:d:\final\cascara_parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1531313154 d:\final\cascara_parcial\funciones.h
+	"ArrayList.h"
+
+1531704070 source:d:\final\cascara_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"funciones.h"
+	"ArrayList.h"
+
